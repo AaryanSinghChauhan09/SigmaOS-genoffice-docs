@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-genoffice-docs"
+tier = 3
+stability = "scaffold"
+language = "rust"
+description = "GenOffice document editor — rich text, styles, tables, pagination, track changes, and ODF/DOCX interoperability"
+upstream = []
+
+[contract]
+provides = ["document-editing", "rich-text"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"

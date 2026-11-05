@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_genoffice_docs"
+version = "0.1.0"
+edition = "2021"
+description = "GenOffice document editor — rich text, styles, tables, pagination, track changes, and ODF/DOCX interoperability"
+
+[lib]
+name = "sigmaos_genoffice_docs"
+path = "src/lib.rs"
