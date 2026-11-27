@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-genoffice-docs"
+version = "0.1.0"
+category = "productivity"
+description = "SigmaOS GenOffice — Document editor component"
